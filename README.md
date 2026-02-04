@@ -1,0 +1,1 @@
+A backend management service used by a small company to track tasks across teams.Mutliple clients comsume the API:a web app,a mobile app and a cron that generates weekly reports.
